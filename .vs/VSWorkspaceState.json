@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\NewEnrollment(18-01)",
+    "\\NewEnrollment(18-01)\\NewEnrollment",
+    "\\NewEnrollment(18-01)\\NewEnrollment\\EnrollmentSystemProject",
+    "\\NewEnrollment(18-01)\\NewEnrollment\\EnrollmentSystemProject\\EnrollmentSystemProject"
+  ],
+  "SelectedNode": "\\NewEnrollment(18-01)\\NewEnrollment\\EnrollmentSystemProject\\EnrollmentSystemProject\\AssessmentForm.cs",
+  "PreviewInSolutionExplorer": false
+}

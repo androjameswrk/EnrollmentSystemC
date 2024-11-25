@@ -1,0 +1,289 @@
+C:\Users\Admin\source\repos\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\EnrollmentSystemProject.exe
+C:\Users\Admin\source\repos\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\EnrollmentSystemProject.deps.json
+C:\Users\Admin\source\repos\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\EnrollmentSystemProject.runtimeconfig.json
+C:\Users\Admin\source\repos\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\EnrollmentSystemProject.dll
+C:\Users\Admin\source\repos\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\EnrollmentSystemProject.pdb
+C:\Users\Admin\source\repos\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.LandingForm.resources
+C:\Users\Admin\source\repos\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.AssemblyInfo.cs
+C:\Users\Admin\source\repos\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.dll
+C:\Users\Admin\source\repos\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\refint\EnrollmentSystemProject.dll
+C:\Users\Admin\source\repos\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.pdb
+C:\Users\Admin\source\repos\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.genruntimeconfig.cache
+C:\Users\Admin\source\repos\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\ref\EnrollmentSystemProject.dll
+C:\Users\Admin\source\repos\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Users\Admin\source\repos\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\source\repos\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Users\Admin\source\repos\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Users\Admin\source\repos\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Users\Admin\source\repos\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\Admin\source\repos\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Users\Admin\source\repos\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\Snappier.dll
+C:\Users\Admin\source\repos\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Admin\source\repos\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\Admin\source\repos\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Admin\source\repos\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\Admin\source\repos\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.EnrollStudentForm.resources
+C:\Users\Admin\source\repos\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.csproj.CopyComplete
+C:\Users\Admin\source\repos\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.SubjectLoadForm.resources
+C:\Users\Admin\source\repos\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.ListSubjectForm.resources
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\EnrollmentSystemProject.exe
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\EnrollmentSystemProject.deps.json
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\EnrollmentSystemProject.runtimeconfig.json
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\EnrollmentSystemProject.dll
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\EnrollmentSystemProject.pdb
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\Snappier.dll
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.EnrollStudentForm.resources
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.LandingForm.resources
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.ListSubjectForm.resources
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.Properties.Resources.resources
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.SubjectLoadForm.resources
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.AssemblyInfo.cs
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.csproj.CopyComplete
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.dll
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\refint\EnrollmentSystemProject.dll
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.pdb
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.genruntimeconfig.cache
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\ref\EnrollmentSystemProject.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\EnrollmentSystemProject\bin\Debug\net6.0-windows\EnrollmentSystemProject.exe
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\EnrollmentSystemProject\bin\Debug\net6.0-windows\EnrollmentSystemProject.deps.json
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\EnrollmentSystemProject\bin\Debug\net6.0-windows\EnrollmentSystemProject.runtimeconfig.json
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\EnrollmentSystemProject\bin\Debug\net6.0-windows\EnrollmentSystemProject.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\EnrollmentSystemProject\bin\Debug\net6.0-windows\EnrollmentSystemProject.pdb
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\EnrollmentSystemProject\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\EnrollmentSystemProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\EnrollmentSystemProject\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\EnrollmentSystemProject\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\EnrollmentSystemProject\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\EnrollmentSystemProject\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\EnrollmentSystemProject\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\EnrollmentSystemProject\bin\Debug\net6.0-windows\Snappier.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\EnrollmentSystemProject\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\EnrollmentSystemProject\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\EnrollmentSystemProject\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\EnrollmentSystemProject\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.EnrollStudentForm.resources
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.LandingForm.resources
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.ListSubjectForm.resources
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.Properties.Resources.resources
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.SubjectLoadForm.resources
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.csproj.CopyComplete
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\EnrollmentSystemProject\obj\Debug\net6.0-windows\refint\EnrollmentSystemProject.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.pdb
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\EnrollmentSystemProject\obj\Debug\net6.0-windows\ref\EnrollmentSystemProject.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\EnrollmentSystemProject.exe
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\EnrollmentSystemProject.deps.json
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\EnrollmentSystemProject.runtimeconfig.json
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\EnrollmentSystemProject.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\EnrollmentSystemProject.pdb
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\Snappier.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.EnrollStudentForm.resources
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.LandingForm.resources
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.ListSubjectForm.resources
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.Properties.Resources.resources
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.SubjectLoadForm.resources
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.csproj.CopyComplete
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\refint\EnrollmentSystemProject.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.pdb
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Assignments\ITProject\EnrollmentProject\EnrollmentSystemProject (2)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\ref\EnrollmentSystemProject.dll
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\EnrollmentSystemProject.exe
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\EnrollmentSystemProject.deps.json
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\EnrollmentSystemProject.runtimeconfig.json
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\EnrollmentSystemProject.dll
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\EnrollmentSystemProject.pdb
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\Snappier.dll
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.EnrollStudentForm.resources
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.LandingForm.resources
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.ListSubjectForm.resources
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.Properties.Resources.resources
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.SubjectLoadForm.resources
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.AssemblyInfo.cs
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.csproj.CopyComplete
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.dll
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\refint\EnrollmentSystemProject.dll
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.pdb
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.genruntimeconfig.cache
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\ref\EnrollmentSystemProject.dll
+C:\Users\Admin\Documents\skdhkndc\3rd year (1st Sem)\Codes\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.AdminLogIn.resources
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\EnrollmentSystemProject.exe
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\EnrollmentSystemProject.deps.json
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\EnrollmentSystemProject.runtimeconfig.json
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\EnrollmentSystemProject.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\EnrollmentSystemProject.pdb
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\Snappier.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.AdminLogIn.resources
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.EnrollStudentForm.resources
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.LandingForm.resources
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.ListSubjectForm.resources
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.Properties.Resources.resources
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.SubjectLoadForm.resources
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.csproj.CopyComplete
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\refint\EnrollmentSystemProject.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.pdb
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\ref\EnrollmentSystemProject.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.AddSubjectForm.resources
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.StudentMasterlistForm.resources
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.SearchbyNameForm.resources
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.UpdateStudentForm.resources
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\EnrollmentSystemProject.exe
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\EnrollmentSystemProject.deps.json
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\EnrollmentSystemProject.runtimeconfig.json
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\EnrollmentSystemProject.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\EnrollmentSystemProject.pdb
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\Snappier.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.AdminLogIn.resources
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.EnrollStudentForm.resources
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.LandingForm.resources
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.ListSubjectForm.resources
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.Properties.Resources.resources
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.SearchbyNameForm.resources
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.StudentMasterlistForm.resources
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.SubjectLoadForm.resources
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.UpdateStudentForm.resources
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.csproj.CopyComplete
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\refint\EnrollmentSystemProject.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.pdb
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\ref\EnrollmentSystemProject.dll
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.AssessmentForm.resources
+C:\Users\Admin\Desktop\Assignments\ITProject\NewEnrollment\NewEnrollment (1)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.PricingForm.resources
+C:\Users\Ahhnd\OneDrive\デスクトップ\WORK\NewEnrollment(20-01)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\EnrollmentSystemProject.exe
+C:\Users\Ahhnd\OneDrive\デスクトップ\WORK\NewEnrollment(20-01)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\EnrollmentSystemProject.deps.json
+C:\Users\Ahhnd\OneDrive\デスクトップ\WORK\NewEnrollment(20-01)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\EnrollmentSystemProject.runtimeconfig.json
+C:\Users\Ahhnd\OneDrive\デスクトップ\WORK\NewEnrollment(20-01)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\EnrollmentSystemProject.dll
+C:\Users\Ahhnd\OneDrive\デスクトップ\WORK\NewEnrollment(20-01)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\EnrollmentSystemProject.pdb
+C:\Users\Ahhnd\OneDrive\デスクトップ\WORK\NewEnrollment(20-01)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Users\Ahhnd\OneDrive\デスクトップ\WORK\NewEnrollment(20-01)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ahhnd\OneDrive\デスクトップ\WORK\NewEnrollment(20-01)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Users\Ahhnd\OneDrive\デスクトップ\WORK\NewEnrollment(20-01)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Users\Ahhnd\OneDrive\デスクトップ\WORK\NewEnrollment(20-01)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Users\Ahhnd\OneDrive\デスクトップ\WORK\NewEnrollment(20-01)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\Ahhnd\OneDrive\デスクトップ\WORK\NewEnrollment(20-01)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Users\Ahhnd\OneDrive\デスクトップ\WORK\NewEnrollment(20-01)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\Snappier.dll
+C:\Users\Ahhnd\OneDrive\デスクトップ\WORK\NewEnrollment(20-01)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Ahhnd\OneDrive\デスクトップ\WORK\NewEnrollment(20-01)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\Ahhnd\OneDrive\デスクトップ\WORK\NewEnrollment(20-01)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Ahhnd\OneDrive\デスクトップ\WORK\NewEnrollment(20-01)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\Ahhnd\OneDrive\デスクトップ\WORK\NewEnrollment(20-01)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.csproj.AssemblyReference.cache
+C:\Users\Ahhnd\OneDrive\デスクトップ\WORK\NewEnrollment(20-01)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.AdminLogIn.resources
+C:\Users\Ahhnd\OneDrive\デスクトップ\WORK\NewEnrollment(20-01)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.AssessmentForm.resources
+C:\Users\Ahhnd\OneDrive\デスクトップ\WORK\NewEnrollment(20-01)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.EnrollStudentForm.resources
+C:\Users\Ahhnd\OneDrive\デスクトップ\WORK\NewEnrollment(20-01)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.LandingForm.resources
+C:\Users\Ahhnd\OneDrive\デスクトップ\WORK\NewEnrollment(20-01)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.ListSubjectForm.resources
+C:\Users\Ahhnd\OneDrive\デスクトップ\WORK\NewEnrollment(20-01)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.PricingForm.resources
+C:\Users\Ahhnd\OneDrive\デスクトップ\WORK\NewEnrollment(20-01)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.Properties.Resources.resources
+C:\Users\Ahhnd\OneDrive\デスクトップ\WORK\NewEnrollment(20-01)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.SearchbyNameForm.resources
+C:\Users\Ahhnd\OneDrive\デスクトップ\WORK\NewEnrollment(20-01)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.StudentMasterlistForm.resources
+C:\Users\Ahhnd\OneDrive\デスクトップ\WORK\NewEnrollment(20-01)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.SubjectLoadForm.resources
+C:\Users\Ahhnd\OneDrive\デスクトップ\WORK\NewEnrollment(20-01)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.UpdateStudentForm.resources
+C:\Users\Ahhnd\OneDrive\デスクトップ\WORK\NewEnrollment(20-01)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.csproj.GenerateResource.cache
+C:\Users\Ahhnd\OneDrive\デスクトップ\WORK\NewEnrollment(20-01)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahhnd\OneDrive\デスクトップ\WORK\NewEnrollment(20-01)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.AssemblyInfoInputs.cache
+C:\Users\Ahhnd\OneDrive\デスクトップ\WORK\NewEnrollment(20-01)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.AssemblyInfo.cs
+C:\Users\Ahhnd\OneDrive\デスクトップ\WORK\NewEnrollment(20-01)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.csproj.CoreCompileInputs.cache
+C:\Users\Ahhnd\OneDrive\デスクトップ\WORK\NewEnrollment(20-01)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\Enrollme.F7090F05.Up2Date
+C:\Users\Ahhnd\OneDrive\デスクトップ\WORK\NewEnrollment(20-01)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.dll
+C:\Users\Ahhnd\OneDrive\デスクトップ\WORK\NewEnrollment(20-01)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\refint\EnrollmentSystemProject.dll
+C:\Users\Ahhnd\OneDrive\デスクトップ\WORK\NewEnrollment(20-01)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.pdb
+C:\Users\Ahhnd\OneDrive\デスクトップ\WORK\NewEnrollment(20-01)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\EnrollmentSystemProject.genruntimeconfig.cache
+C:\Users\Ahhnd\OneDrive\デスクトップ\WORK\NewEnrollment(20-01)\NewEnrollment(18-01)\NewEnrollment\EnrollmentSystemProject\EnrollmentSystemProject\obj\Debug\net6.0-windows\ref\EnrollmentSystemProject.dll
